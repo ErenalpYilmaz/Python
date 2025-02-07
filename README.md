@@ -14,7 +14,7 @@ Bir metni belirli bir şifreleme anahtarı kullanarak **Sezar Şifreleme** algor
 
 Klasik bir **Adam Asmaca** oyunu. Oyunda rastgele seçilen bir kelimeyi tahmin etmeye çalışırsınız. Yanlış tahminlerde bulunduğunuzda adam bir aşama daha asılır. Canlarınız tükenmeden doğru kelimeyi tahmin etmeniz gerekir.
 
-- [Detaylı bilgi için `Hangman Game README`](./2_hangman_game/README.md)
+- [Detaylı bilgi için `Hangman Game README`](./2_hangman_game/readme.md)
 
 ## Kullanım
 
