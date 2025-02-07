@@ -8,13 +8,13 @@ Bu repository, çeşitli Python projelerini barındırmaktadır. Her proje, Pyth
 
 Bir metni belirli bir şifreleme anahtarı kullanarak **Sezar Şifreleme** algoritmasıyla şifrelemenizi veya çözmenizi sağlayan basit bir uygulama. Şifreleme algoritmasının temel mantığını öğrenmek için mükemmel bir örnek.
 
-- [Detaylı bilgi için `Caesar Cipher README`](./caesar_cipher/README.md)
+- [Detaylı bilgi için `Caesar Cipher README`](./1_caesarCipher/README.md)
 
 ### 2. Hangman Game (Adam Asmaca)
 
 Klasik bir **Adam Asmaca** oyunu. Oyunda rastgele seçilen bir kelimeyi tahmin etmeye çalışırsınız. Yanlış tahminlerde bulunduğunuzda adam bir aşama daha asılır. Canlarınız tükenmeden doğru kelimeyi tahmin etmeniz gerekir.
 
-- [Detaylı bilgi için `Hangman Game README`](./hangman/README.md)
+- [Detaylı bilgi için `Hangman Game README`](./2_hangman_game/README.md)
 
 ## Kullanım
 
