@@ -65,7 +65,7 @@ Görüşmek üzere :D
    ```
 2. Proje dizinine geçin:
    ```bash
-   cd caesar-cipher
+   cd 1_caesarCipher
    ```
 3. Programı çalıştırın:
    ```bash
