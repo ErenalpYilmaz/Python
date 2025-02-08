@@ -28,7 +28,7 @@ Bu repository'deki projeleri çalıştırmak için aşağıdaki adımları izley
 
 2. İlgili proje klasörüne gidin ve Python betiğini çalıştırın:
    ```bash
-   cd hangman
+   cd 2_hangman_game
    python hangman.py
    ```
 
