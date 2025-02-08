@@ -23,7 +23,7 @@ Bu repository'deki projeleri çalıştırmak için aşağıdaki adımları izley
 1. Bu repository'yi bilgisayarınıza klonlayın:
 
    ```bash
-   git clone https://github.com/<kullanıcı-adınız>/python.git
+   git clone https://github.com/ErenalpYilmaz/python.git
    ```
 
 2. İlgili proje klasörüne gidin ve Python betiğini çalıştırın:
