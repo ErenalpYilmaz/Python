@@ -61,7 +61,7 @@ Görüşmek üzere :D
 
 1. Reposu klonlayın:
    ```bash
-   git clone https://github.com/ErenalpYilmaz/caesar-cipher.git
+   git clone https://github.com/ErenalpYilmaz/Python.git
    ```
 2. Proje dizinine geçin:
    ```bash
