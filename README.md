@@ -4,7 +4,7 @@ Bu repository, çeşitli Python projelerini barındırmaktadır. Her proje, Pyth
 
 ## İçerik
 
-### 1. Caesar Cipher
+### 1. Caesar Cipher (Sezar'ın Şifresi)
 
 Bir metni belirli bir şifreleme anahtarı kullanarak **Sezar Şifreleme** algoritmasıyla şifrelemenizi veya çözmenizi sağlayan basit bir uygulama. Şifreleme algoritmasının temel mantığını öğrenmek için mükemmel bir örnek.
 
@@ -28,7 +28,7 @@ Bu repository'deki projeleri çalıştırmak için aşağıdaki adımları izley
 
 2. İlgili proje klasörüne gidin ve Python betiğini çalıştırın:
    ```bash
-   cd hangman
+   cd 2_hangman_game
    python hangman.py
    ```
 
