@@ -65,7 +65,7 @@ _ _ e _ _
 
 1. Reposu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/hangman-game.git
+   git clone https://github.com/kullaniciadi/Python.git
    ```
 2. Proje dizinine geçin:
    ```bash

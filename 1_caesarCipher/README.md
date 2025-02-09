@@ -61,11 +61,11 @@ Görüşmek üzere :D
 
 1. Reposu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/caesar-cipher.git
+   git clone https://github.com/ErenalpYilmaz/Python.git
    ```
 2. Proje dizinine geçin:
    ```bash
-   cd caesar-cipher
+   cd 1_caesarCipher
    ```
 3. Programı çalıştırın:
    ```bash
