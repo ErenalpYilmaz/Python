@@ -7,7 +7,7 @@ def take_people(dictionary):
     price = int(input("What is your bid?:$"))
     dictionary[name] = price
     return dictionary
-def max_value(dictionary):
+def max_value(dictionary):    
     max_price = 0
     winner = {}
     for key in dictionary:
