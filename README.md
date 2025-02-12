@@ -16,8 +16,34 @@ Klasik bir **Adam Asmaca** oyunu. Oyunda rastgele seçilen bir kelimeyi tahmin e
 
 - [Detaylı bilgi için `Hangman Game README`](./2_hangman_game/readme.md)
 
+### 3. secret_auction ( Sessiz Müzayede )
+
+Klasik bir **Sessiz müzayede** oyunu. Oyunda müzayedeye katılan her kişi fiyatı veriyor ve tekrardan birisinin katılıp katılmayacağı soruluyor. Eğer ekstra katılım yoksa en yüksek teklifi veren kişi müzayedenin kazananı oluyor.
+
+- [Detaylı bilgi için `secret_auction README`](./3_secret_auction/README.md)
+
+### 4. very_simple_to_do_list (Adam Asmaca)
+
+Klasik bir **To Do List** uygulaması. Kullanıcı görev ekleyebilir ,silebilir, görüntüleyebilir ve silebilir.
+
+- [Detaylı bilgi için `very_simple_to_do_list README`](./4_very_simple_to_do_list/README.md)
+
+### 5. Calculator (Hesap Makinesi)
+
+Klasik bir **Hesap Makinesi** oyunu. Bu projenin benim için önemi sözlüklerin içine fonksiyonları sokabildiğimi öğrendiğim proje olmasıdır.
+Basit bir hesap makinesi uygulamasıdır.
+
+- [Detaylı bilgi için `Calculator README`](./5_calculator/README.md)
+
+### 6. BlackJack ( yirmibir )
+
+Klasik bir **BlackJack** oyunu. Bilgisayara karşı bir mücadele vermektesiniz.
+
+- [Detaylı bilgi için `Blackjack Game README`](./6_blackjack/README.md)
+
 ## Kullanım
 
+(ÖRNEK)
 Bu repository'deki projeleri çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1. Bu repository'yi bilgisayarınıza klonlayın:
