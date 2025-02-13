@@ -33,13 +33,24 @@ Klasik bir **To Do List** uygulaması. Kullanıcı görev ekleyebilir ,silebilir
 Klasik bir **Hesap Makinesi** oyunu. Bu projenin benim için önemi sözlüklerin içine fonksiyonları sokabildiğimi öğrendiğim proje olmasıdır.
 Basit bir hesap makinesi uygulamasıdır.
 
-- [Detaylı bilgi için `Calculator README`](./5_calculator/README.md)
+- [Detaylı bilgi için `Calculator README`](./5_calculator/README.MD)
 
 ### 6. BlackJack ( yirmibir )
 
 Klasik bir **BlackJack** oyunu. Bilgisayara karşı bir mücadele vermektesiniz.
 
 - [Detaylı bilgi için `Blackjack Game README`](./6_blackjack/README.md)
+
+### 7. Sayı Tahmin Oyunu
+
+**7 Sayı Tahmin Oyunu**, kullanıcının **1 ile 100** arasında rastgele seçilen bir sayıyı tahmin etmeye çalıştığı eğlenceli bir oyundur. Kullanıcı **kolay** veya **zor** zorluk seviyelerini seçerek belirli sayıda deneme hakkına sahip olur.
+
+- **Kolay Mod:** 10 tahmin hakkı
+- **Zor Mod:** 5 tahmin hakkı
+
+Her tahminden sonra kullanıcıya **çok yüksek**, **çok düşük** veya **doğru tahmin** gibi geri bildirimler verilir.
+
+- [Detaylı bilgi için `7 Sayı Tahmin Oyunu README`](./7_Number_Guessing_Project/README.md)
 
 ## Kullanım
 
