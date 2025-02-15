@@ -52,6 +52,16 @@ Her tahminden sonra kullanıcıya **çok yüksek**, **çok düşük** veya **do�
 
 - [Detaylı bilgi için `7 Sayı Tahmin Oyunu README`](./7_Number_Guessing_Project/README.md)
 
+Ana proje README dosyanıza bu projeyi eklemek için aşağıdaki gibi bir giriş yapabilirsiniz:
+
+### 8. Higher or Lower
+
+Ünlülerin veya markaların takipçi sayılarını tahmin ettiğiniz eğlenceli bir **Higher or Lower** oyunu.
+
+- [Detaylı bilgi için `Higher or Lower README`](./8_higher_or_lower/README.md)
+
+---
+
 ## Kullanım
 
 (ÖRNEK)
