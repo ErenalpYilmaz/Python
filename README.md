@@ -65,6 +65,14 @@ Basit bir **Kahve Makinesi** simülasyonu. Kullanıcı espresso, latte veya capp
 
 ---
 
+### 10. Coffee Machine (Kahve Makinesi)(OOP ile birlikte Classlar kullanılarak hazırlanmış halidir.) ☕️
+
+Basit bir **Kahve Makinesi** simülasyonu. Kullanıcı espresso, latte veya cappuccino sipariş edebilir. Makine, kaynaklarını kontrol eder ve yeterli malzeme varsa içeceği hazırlar. Kullanıcıdan para alır ve değişim verir.
+
+- [Detaylı bilgi için `Coffee Machine README`](./10_OOP_1/README.md)
+
+---
+
 ## Kullanım 🖥️
 
 **Bu repository'deki projeleri çalıştırmak için aşağıdaki adımları izleyebilirsiniz:**

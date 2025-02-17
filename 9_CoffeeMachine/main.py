@@ -27,6 +27,7 @@ def use_resources(user_choice):
             res[source] -= MENU[user_choice]["ingredients"][source]
         
     return res
+
 def get_coins(price):
     """Fees are charged. It compares the fee total with the product fee."""
     result = 0
