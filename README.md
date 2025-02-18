@@ -71,7 +71,7 @@ Basit bir **Kahve Makinesi** simülasyonu. Kullanıcı espresso, latte veya capp
 
 - [Detaylı bilgi için `Coffee Machine README`](./10_OOP_1/README.md)
 
----
+### `- Daha fazla proje için repoyu inceleyebilirsiniz :D`
 
 ## Kullanım 🖥️
 
